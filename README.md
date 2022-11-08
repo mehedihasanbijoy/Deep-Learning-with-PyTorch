@@ -31,7 +31,9 @@ In PyTorch, a DataLoader often becomes a barrier when trying state-of-the-art be
     
     * 3 - Sentiment Analysis Using CNN
     
-    * 4 - Sentiment Analysis Using DistilBERT
+    * 4 - Sentiment Analysis Using Transformer
+    
+    * 5 - Sentiment Analysis Using DistilBERT
     
     
     

@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Implementation of different Natural Language Processing (NLP) tasks with PyTorch from scratch
+  Implementation of different Bangla Natural Language Processing tasks with PyTorch from scratch
 </p>
 
 ## Tutorial

@@ -8,7 +8,11 @@
 
 ## Tutorial
 
-* 0 - [Dataloaders](https://github.com/mehedihasanbijoy/PyTorch-NLP-Tutorial/tree/main/0.%20Dataloaders) </br>
+* 0A - [Corpus](https://github.com/mehedihasanbijoy/PyTorch-BanglaNLP-Tutorial/tree/main/0A.%20Corpus) </br>
+
+* 0B - [Utils](https://github.com/mehedihasanbijoy/PyTorch-BanglaNLP-Tutorial/tree/main/0B.%20Utils) </br>
+
+* 1 - [Dataloaders](https://github.com/mehedihasanbijoy/PyTorch-NLP-Tutorial/tree/main/0.%20Dataloaders) </br>
 In PyTorch, a DataLoader often becomes a barrier when trying state-of-the-art benchmark methods on our custom dataset. Therefore, custom dataloaders are built for numerous downstream CV and NLP tasks including text classification/sentiment analysis, image classification, image captioning, and machine translation.
 
     * 1 - [For Text Classification](https://github.com/mehedihasanbijoy/PyTorch-NLP-Tutorial/blob/main/0.%20Dataloaders/Dataloader_TextClassification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1woUMyq_wtOGqUf2H1vtRUfL5uTyGdTB4/view?usp=share_link)
@@ -21,7 +25,7 @@ In PyTorch, a DataLoader often becomes a barrier when trying state-of-the-art be
 
 </br>
 
-* 1 - [Text Classification](https://github.com/mehedihasanbijoy/PyTorch-NLP-Tutorial/tree/main/1.%20Text%20Classification)
+* 2 - [Text Classification](https://github.com/mehedihasanbijoy/PyTorch-NLP-Tutorial/tree/main/1.%20Text%20Classification)
 
     * 1 - [Sentiment Analysis Using ANN](https://github.com/mehedihasanbijoy/PyTorch-NLP-Tutorial/blob/main/1.%20Text%20Classification/1_SentimentAnalysis_ANN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MsBAJP0aCWpkGOZWYkHu7pR4U7VEe7G3?usp=share_link)
     

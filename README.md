@@ -1,5 +1,5 @@
 <h1 align="center">
-  PyTorch-NLP-Tutorial
+  PyTorch-BanglaNLP-Tutorial
 </h1>
 
 <p align="center">

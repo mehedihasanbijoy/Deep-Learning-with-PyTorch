@@ -29,7 +29,7 @@
 
 * 1 - [Text Classification](https://github.com/mehedihasanbijoy/PyTorch-NLP-Tutorial/tree/main/1.%20Text%20Classification)
 
-    * 1 - NBoW — Neural Bag-of-Words
+    * 1 - NeuralBoW — Neural Bag-of-Words
     
     * 2 - FastText — Bag of Tricks for Efficient Text Classification
     
